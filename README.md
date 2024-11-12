@@ -6,7 +6,7 @@ It is an application designed to process and query multiple document types.It us
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`GEMINI_API_KEY`
+`GOOGLE_API_KEY`
 
 `GROQ_API_KEY`
 
