@@ -23,3 +23,12 @@ PDF,DOCX, PPTX, URLs, CSV, and XLSX
 
 ![App Screenshot](https://github.com/sidheshsahu/RAG/blob/main/Img%201.png)
 ![App Screenshot](https://github.com/sidheshsahu/RAG/blob/main/Img%202.png)
+
+
+## Running Tests
+
+To run project, run the following command
+
+```bash
+  streamlit run app.py
+```
